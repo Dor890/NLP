@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Dor/Google Drive (dor.messica@mail.huji.ac.il)/CandCPP/Exercises/ex3/tweetsGenerator.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
